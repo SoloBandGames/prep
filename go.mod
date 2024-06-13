@@ -1,6 +1,6 @@
 module github.com/solobandgames/prep
 
-go 1.20.4
+go 1.20
 
 require golang.org/x/tools v0.21.0
 
